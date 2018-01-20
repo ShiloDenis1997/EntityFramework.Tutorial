@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityTutorial", "EntityTutorial\EntityTutorial.csproj", "{7F2FF4BF-0D7D-4925-B168-B2681379BF1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityTutorial.DAL", "EntityTutorial.DAL\EntityTutorial.DAL.csproj", "{AF6724A4-55B0-4A7F-9EC9-B8A6ED1A7190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7F2FF4BF-0D7D-4925-B168-B2681379BF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F2FF4BF-0D7D-4925-B168-B2681379BF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F2FF4BF-0D7D-4925-B168-B2681379BF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6724A4-55B0-4A7F-9EC9-B8A6ED1A7190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6724A4-55B0-4A7F-9EC9-B8A6ED1A7190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6724A4-55B0-4A7F-9EC9-B8A6ED1A7190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6724A4-55B0-4A7F-9EC9-B8A6ED1A7190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
